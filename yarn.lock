@@ -1091,10 +1091,10 @@ long@^4.0.0:
   resolved "https://registry.yarnpkg.com/long/-/long-4.0.0.tgz#9a7b71cfb7d361a194ea555241c92f7468d5bf28"
   integrity sha512-XsP+KhQif4bjX1kbuSiySJFNAehNxgLb6hPRGJ9QsUr8ajHkuXGdrHmFUTUUXhDwVX2R5bY4JNZEwbUiMhV+MA==
 
-lottie-web@^5.7.4:
-  version "5.7.4"
-  resolved "https://registry.yarnpkg.com/lottie-web/-/lottie-web-5.7.4.tgz#3b252148e904a0aa9833879ffb64924c85a0888c"
-  integrity sha512-LxqhXlHnHXOPmu+o2ipFKGv42jZLmn/GiEwXP0YC331fFwa+y96OUV22OF9r4i29uWKDciXiJr8tzy6jL8KygA==
+lottie-web-light@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/lottie-web-light/-/lottie-web-light-1.1.0.tgz#45a461ddeee5fbccfcefef4dcc648b74ca0e8813"
+  integrity sha512-4DS7AdcRywHCuDJTm1/R3Rna6yg1GH4UCRsbBDjzmg3Zxuu8plGCcXqQdFQoxyEvJqiRSW866PVQLislf1b6MQ==
 
 lru-cache@^6.0.0:
   version "6.0.0"

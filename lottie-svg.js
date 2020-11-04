@@ -60,7 +60,7 @@ import {
 }                 from '@smyd/app-shared/app-element.js';
 import {listen, isOnScreen} from '@smyd/app-functions/utils.js';
 
-import * as lottie from 'lottie-web';
+import * as lottie from 'lottie-web-light';
 
 
 class LottieSvg extends AppElement {
